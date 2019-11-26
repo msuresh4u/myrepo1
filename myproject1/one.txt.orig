@@ -1,0 +1,9 @@
+one
+two
+<<<<<<< HEAD
+duplicate: three, five, seven
+original: four
+=======
+duplicate: three, five
+original: four, six
+>>>>>>> 244de393b22dc30467f795ab755e42df642b5f61
