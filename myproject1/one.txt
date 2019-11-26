@@ -1,4 +1,4 @@
 one
 two
 duplicate: three, five
-original: four
+original: four, six
